@@ -12,4 +12,4 @@ class Car {
 }
 
 let p = new Car("Skoda", "Rapid", 2022);
-console.log(p.getDescription());
+console.log(p.getDescription())
