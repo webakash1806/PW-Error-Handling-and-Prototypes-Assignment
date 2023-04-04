@@ -12,7 +12,4 @@ class Employee {
 
 
 let employee1 = new Employee("Akash", "Web Developer", 80000)
-console.log(employee1.getSalary());
-
-let employee2 = new Employee()
-console.log(employee2);
+console.log(employee1.getSalary())
