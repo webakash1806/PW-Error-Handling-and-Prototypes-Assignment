@@ -7,7 +7,7 @@ function sub() {
         }
         else {
             console.log(num);
-            document.getElementById("res").innerHTML = num
+            document.getElementById("res").innerHTML = `Result : ${num}`
         }
     }
     catch {
